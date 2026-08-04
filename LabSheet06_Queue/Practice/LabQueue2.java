@@ -3,7 +3,7 @@ import java.util.Deque;
 import java.util.Queue;
 import java.util.Scanner;
 
-public class LabQueue2 {
+public class LabQueue02 {
 
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
