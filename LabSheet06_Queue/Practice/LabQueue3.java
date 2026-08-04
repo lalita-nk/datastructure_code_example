@@ -3,7 +3,7 @@ import java.util.Arrays;
 import java.util.Deque;
 import java.util.Queue;
 
-public class LabQueue3 {
+public class LabQueue03 {
 
 	public static void main(String[] args) {
 		Queue<Integer> q_number = new ArrayDeque<Integer>(Arrays.asList(10, 20, 30, 40, 50));
