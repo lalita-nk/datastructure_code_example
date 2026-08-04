@@ -2,7 +2,7 @@ import java.util.ArrayDeque;
 import java.util.Queue;
 import java.util.Scanner;
 
-public class LabQueue4 {
+public class LabQueue04 {
 	public static Queue<String> q_printer = new ArrayDeque<String>();
 	public static Scanner input = new Scanner(System.in);
 	
